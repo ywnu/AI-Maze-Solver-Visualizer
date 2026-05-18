@@ -1,24 +1,61 @@
-# AI-Maze-Solver-Visualizer
-A Python-based AI project that solves mazes automatically 
-using multiple search algorithms with a graphical interface.
+# AI Maze Solver Visualizer
+
+A visual tool that compares how different AI search algorithms perform in solving the same maze in real time.
+
+## Overview
+An interactive desktop application that generates random mazes and visually shows how four different AI search algorithms find their way from start to goal — step by step.
+
+## Features
+- Generates a new random maze each round
+- Runs 4 algorithms: DFS, BFS, A* and Greedy
+- Animates the exploration step by step
+- Highlights the final path in a different color
+- Displays live performance stats (cells explored, path length, time, efficiency)
 
 ## Algorithms Used
-- BFS (Breadth-First Search)
-- DFS (Depth-First Search)
-- A* (A-Star)
-- Greedy Best-First Search
 
-## Technologies
-- Python
-- GUI Visualizer
+| Algorithm | Type | Shortest Path |
+|-----------|------|--------------|
+| DFS (Depth-First Search) | Stack | No |
+| BFS (Breadth-First Search) | Queue | Yes |
+| A* (A-Star Search) | Priority Queue | Yes |
+| Greedy Best-First Search | Priority Queue | No |
+
+## Results
+
+| Algorithm | Cells Explored | Path Length | Efficiency |
+|-----------|---------------|-------------|------------|
+| DFS | 221 | 215 | 97% |
+| Greedy | 247 | 215 | 87% |
+| A* | 327 | 215 | 65% |
+| BFS | 353 | 215 | 60% |
+
+## How to Use
+
+### Requirements
+pip install pygame
+
+### Run the Project
+python "Ai Maze Solver Visualizer.py"
+
+### Controls
+| Key | Action |
+|-----|--------|
+| N | Next algorithm |
+| R | New maze |
+| SPACE | Auto/Pause |
+| + | Faster |
+| - | Slower |
+| ESC | Exit |
 
 ## Team
-- Deem Ahmad Almaneea - [@ywnu](https://github.com/ywnu)
-- Hanan Bander Almutairi - [@hananlmtyry682-max](https://github.com/hananlmtyry682-max)
-- Hanan Bander Almutairi - [@](https://github.com/)
-- Hanan Bander Almutairi - [@](https://github.com/)
-- Hanan Bander Almutairi - [@](https://github.com/)
-
+- Deem Almaneea - [@ywnu](https://github.com/ywnu)
+- Hanan Almutairi - [@lixr-7](https://github.com/lixr-7)
+- Aseel Alotaibi
+- Bayader Alotaibi
+- Jumanah Alotaibi
 
 ## Course
-Artificial Intelligence Course
+Artificial Intelligence - CSC 2304 | Shaqra University
+Instructor: Dr. Amirah Almutairi
+Date: May 2026
