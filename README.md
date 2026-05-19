@@ -51,9 +51,9 @@ python "Ai Maze Solver Visualizer.py"
 ## Team
 - Deem Almaneea - [@ywnu](https://github.com/ywnu)
 - Hanan Almutairi - [@lixr-7](https://github.com/lixr-7)
-- Aseel Alotaibi
+- Aseel Alotaibi [@lililalotaibi](https://github.com/lililalotaibi)
+- Jumanah Alotaibi [@Jumanah-1](https://github.com/Jumanah-1)
 - Bayader Alotaibi
-- Jumanah Alotaibi
 
 ## Course
 Artificial Intelligence - CSC 2304 | Shaqra University
