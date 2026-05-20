@@ -21,14 +21,6 @@ An interactive desktop application that generates random mazes and visually show
 | A* (A-Star Search) | Priority Queue | Yes |
 | Greedy Best-First Search | Priority Queue | No |
 
-## Results
-
-| Algorithm | Cells Explored | Path Length | Efficiency |
-|-----------|---------------|-------------|------------|
-| DFS | 221 | 215 | 97% |
-| Greedy | 247 | 215 | 87% |
-| A* | 327 | 215 | 65% |
-| BFS | 353 | 215 | 60% |
 
 ## How to Use
 
