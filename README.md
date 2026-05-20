@@ -53,7 +53,7 @@ python "Ai Maze Solver Visualizer.py"
 - Hanan Almutairi - [@lixr-7](https://github.com/lixr-7)
 - Aseel Alotaibi [@lililalotaibi](https://github.com/lililalotaibi)
 - Jumanah Alotaibi [@Jumanah-1](https://github.com/Jumanah-1)
-- Bayader Alotaibi
+- Bayader Alotaibi [@Bayaderr](https://github.com/Bayaderr)
 
 ## Course
 Artificial Intelligence - CSC 2304 | Shaqra University
