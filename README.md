@@ -41,7 +41,7 @@ python "Ai Maze Solver Visualizer.py"
 | ESC | Exit |
 
 ## Team
-- Deem Almaneea - [@ywnu](https://github.com/ywnu)
+- Diyam Almaneea - [@ywnu](https://github.com/ywnu)
 - Hanan Almutairi - [@lixr-7](https://github.com/lixr-7)
 - Aseel Alotaibi [@lililalotaibi](https://github.com/lililalotaibi)
 - Jumanah Alotaibi [@Jumanah-1](https://github.com/Jumanah-1)
